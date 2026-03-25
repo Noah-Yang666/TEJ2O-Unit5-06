@@ -2,7 +2,7 @@
  *
  * Created by: Noah
  * Created on: March 2026
- * This program ...
+ * This program operates the servo to turn
 */
 
 // variables
